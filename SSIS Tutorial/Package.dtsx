@@ -11,8 +11,8 @@
   DTS:LocaleID="7177"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{AF0DD377-C315-4887-8DA4-3DE0113C7E54}">
+  DTS:VersionBuild="4"
+  DTS:VersionGUID="{85831A0B-2E31-4AD6-9F34-89EB7B258D8B}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -111,18 +111,11 @@
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
           Size="155,42"
           Id="Package\Data Flow Task"
           TopLeft="107,60" />
-        <AnnotationLayout
-          Text="Add"
-          ParentId="Package"
-          FontInfo="{assembly:Null}"
-          Size="51,60"
-          Id="88ceecbf-f7f6-48ee-ae06-ff591faf74c5"
-          TopLeft="217,288" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
